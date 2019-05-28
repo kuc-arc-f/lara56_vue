@@ -15,6 +15,7 @@ Laravel 5.6 + Vue.js sample
 ***
 ### Blog
 
+https://knaka0209.hatenablog.com/entry/lara5_vue2
 
 ***
 
